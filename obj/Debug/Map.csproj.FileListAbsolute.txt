@@ -1,0 +1,10 @@
+E:\test\DisTimeBetweenTown\bin\Debug\DisTimeBetweenTown.exe.config
+E:\test\DisTimeBetweenTown\obj\Debug\DisTimeBetweenTown.exe
+E:\test\DisTimeBetweenTown\obj\Debug\DisTimeBetweenTown.pdb
+E:\test\DisTimeBetweenTown\bin\Debug\DisTimeBetweenTown.exe
+E:\test\DisTimeBetweenTown\bin\Debug\DisTimeBetweenTown.pdb
+E:\test\DisTimeBetweenTown\obj\Debug\DisTimeBetweenTown.MainForm.resources
+E:\test\DisTimeBetweenTown\obj\Debug\DisTimeBetweenTown.Properties.Resources.resources
+E:\test\DisTimeBetweenTown\obj\Debug\DisTimeBetweenTown.SingleInputForm.resources
+E:\test\DisTimeBetweenTown\obj\Debug\Map.csproj.GenerateResource.Cache
+E:\test\DisTimeBetweenTown\obj\Debug\Map.csprojResolveAssemblyReference.cache
